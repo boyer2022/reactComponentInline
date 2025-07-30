@@ -4,6 +4,7 @@
 // 2. Modules
 // 3. INLINE
 
+import Button from './Button.jsx'
 function App() {
   
 
